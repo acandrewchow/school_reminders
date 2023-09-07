@@ -1,0 +1,11 @@
+course,task,assignment_type,due_date,weight
+TEST,TEST,TEST,2023-09-8 12:00:00,10%
+CIS*3760,Milestone 1,Milestone,2023-09-11 12:00:00,10%
+CIS*3760,Milestone 2,Milestone,2023-09-18 12:00:00,10%
+CIS*3760,Milestone 3,Milestone,2023-09-25 12:00:00,10%
+CIS*3760,Milestone 4,Milestone,2023-10-16 12:00:00,10%
+CIS*3760,Milestone 5,Milestone,2023-10-23 12:00:00,10%
+CIS*3760,Milestone 6,Milestone,2023-10-30 12:00:00,10%
+CIS*3760,Milestone 7,Milestone,2023-11-06 12:00:00,10%
+CIS*3760,Milestone 8,Milestone,2023-11-13 12:00:00,10%
+CIS*3760,Milestone 9,Milestone,2023-11-20 12:00:00,10%
